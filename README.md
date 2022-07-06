@@ -1,11 +1,21 @@
 # 💫 Sobre:
 const apresentacao = function inicialize(nome,idade,profissional,hobbies,cep){
-     nome = 'Fábio Ribeiro'
-     idade = 28,
-     profissional = 'Desenvolvimento-web Back-End'
-     hobbies =  'Familia Futebol Viagem Games'
-     cep = 'Brasilia DF'
+
+     
+   nome = 'Fábio Ribeiro'
+   
+   idade = 28,
+   
+   profissional = 'Desenvolvimento-web Back-End'
+   
+   hobbies =  'Familia Futebol Viagem Games'
+   
+   cep = 'Brasilia DF'
+   
+   }
+   
 apresentacao ()
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.com/channels/@me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/f%C3%A1bio-dos-santos-ribeiro-035a42163?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9SWddLgxQxexeG09dB0DAg%3D%3D) 
